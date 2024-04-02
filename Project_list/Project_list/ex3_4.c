@@ -19,7 +19,7 @@ int main(void) {
 	if (move == size) printf("\n선형 리스트에 원소가 없어서 삭제할 수 없습니다.\n");
 	else {
 		printf("\n삭제 후 선형 리스트 : ");
-		for (i = 0; i < size - 1; i++) printf("3%d ", list[i]);
+		for (i = 0; i < size - 1; i++) printf("%3d ", list[i]);
 		printf("\n원소의 갯수 : %d ", --size);
 		printf("\n자리 이동 횟수 : %d \n", move);
 	}
