@@ -1,0 +1,10 @@
+﻿  InsertLinkedList.c
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(19,11): warning C4133: '=': 'ListeNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(29,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(33,5): warning C4133: '=': 'ListeNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(44,18): warning C4133: '=': 'listNode *'과(와) 'ListeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(58,17): warning C4133: '=': 'listNode *'과(와) 'ListeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(63,13): warning C4133: '=': 'listNode *'과(와) 'ListeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(81,34): warning C4133: '=': 'ListeNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\Singly-linked-list\InsertLinkedList.c(82,13): warning C4133: '=': 'listNode *'과(와) 'ListeNode *' 사이의 형식이 호환되지 않습니다.
+  Singly-linked-list.vcxproj -> C:\Users\ltclo\OneDrive\Desktop\Cwork\Singly-linked-list\x64\Debug\Singly-linked-list.exe
