@@ -1,13 +1,14 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "adjList.h"
 
 // 공백 그래프를 생성하는 연산
 void createGraph(graphType* g) {
 	int v;
 	g->n = 0;							// 그래프의 정점 개수를 0으로 초기화
-	for (v = 0; v < MAX_VERTEX; v++)
+	for (v = 0; v < MAX_VERTEX; v++) {
 		g->adjList_H[v] = NULL;			// 그래프의 정점에 대한 헤드 포인터 배열을 NULL로 초기화
+		g->visited[v] = FALSE;			// 그래프의 정점에 대한 배열 visited를 FALSE로 초기화 추가!
+	}
 }
 
 // 그래프 g에 정점 v를 삽입하는 연산
